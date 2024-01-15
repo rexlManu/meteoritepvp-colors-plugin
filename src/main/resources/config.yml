@@ -1,0 +1,9 @@
+message:
+  invalid-color: '&cYour input is not a valid color!'
+  color-already-stored: '&cThis color is already stored!'
+  color-added: '&aYou have added the color &e%color%&a!'
+  color-not-stored: '&cThis color is not stored!'
+  color-removed: '&aYou have removed the color &e%color%&a!'
+  no-colors-stored: '&cThere are no colors stored!'
+  inventory-title: '&eColors'
+  only-players: '&cOnly players can execute this command!'

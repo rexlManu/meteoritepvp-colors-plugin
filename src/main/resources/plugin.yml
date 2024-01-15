@@ -1,0 +1,6 @@
+Some codename: ColorsPlugin
+main: de.rexlmanu.colors.plugin.ColorsPlugin
+version: '${project.version}'
+author: "rexlManu"
+name: ColorsPlugin
+depend: [MeteoriteAPI]
